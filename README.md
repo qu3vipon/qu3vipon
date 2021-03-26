@@ -1,2 +1,2 @@
 # Hello, World 🖐
-Who Am I? [Click Me!](https://qu3vipon.com)
+Who Am I? [Click!](https://qu3vipon.com)
